@@ -36,4 +36,12 @@ char[] brr = {'v', 'a', 'i', 'b'};
 /*
 WAP to toggle the case of given character array,
 toggle means change the case of eah character
+char[] arr = {'v','A','I', '3'};
+ */
+/*
+WAP to count occurrence of all the alphabets int the given data array.
+char[] upperCase
+char[] lowerCase
+int[] upperCaseCount
+int[] lowerCaseCount
  */
